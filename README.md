@@ -25,7 +25,7 @@
 
 <div align="center">
 
-### 🌐 **[✨ TESTER L'APPLICATION MAINTENANT ✨](https://gel.netlify.app/)**
+### 🌐 **[✨ TESTER L'APPLICATION MAINTENANT ✨](https://gestle.netlify.app/)**
 
 *Interface futuriste • Calculs automatiques • Design responsive*
 
@@ -61,7 +61,7 @@ open index.html
 3. Ouvrir `index.html` dans votre navigateur
 
 ### Méthode 3 : Netlify (Démo Live)
-🌐 **[Accès Direct en Ligne](https://gel.netlify.app/)**
+🌐 **[Accès Direct en Ligne](https://gestle.netlify.app/)**
 
 ## 📋 Fonctionnalités Détaillées
 
